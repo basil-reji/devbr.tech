@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #171717;
+    background-color: #0b0c11;
     height: 100vh;
     width: 100%;
     overflow: hidden;
@@ -18,7 +18,7 @@ body{
 
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #EDEDED;
+    color: #c5c6cc;
     padding: 1.3rem;
 }
 
@@ -28,10 +28,10 @@ button{
     border: none;
     font-size: 2.7rem;
     padding: 0.8rem;
-    color: #EDEDED;
+    color: #c5c6cc;
 }
 
 button:hover, button:active{
-    color: #DA0037;
+    color: #68fbf1;
     transition: all 0.3s ease;
 }
